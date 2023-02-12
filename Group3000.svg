@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="59" viewBox="0 0 66 59">
+  <defs>
+    <filter id="Rectangle_38" x="0" y="0" width="66" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff00b2"/>
+      <stop offset="1" stop-color="#ffe500"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3000" data-name="Group 3000" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Rectangle_38)">
+      <rect id="Rectangle_38-2" data-name="Rectangle 38" width="48" height="41" rx="20.5" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <path id="noun-accessibility-3393752" d="M153.526,52.674a3,3,0,1,0-3-3A3,3,0,0,0,153.526,52.674Zm-13.469,1.138a1.5,1.5,0,0,1,1.821-1.093,58.264,58.264,0,0,0,11.649,1.457,58.265,58.265,0,0,0,11.649-1.457,1.5,1.5,0,0,1,.728,2.914,60.644,60.644,0,0,1-7.872,1.286v4.765a74.616,74.616,0,0,0,1.457,13.15,1.5,1.5,0,1,1-2.914.728,69.811,69.811,0,0,1-1.324-9.374H151.8a69.794,69.794,0,0,1-1.324,9.374,1.5,1.5,0,1,1-2.914-.728,74.882,74.882,0,0,0,1.457-13.016v-4.9a60.642,60.642,0,0,1-7.872-1.286,1.5,1.5,0,0,1-1.093-1.821Z" transform="translate(-129.719 -40.813)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

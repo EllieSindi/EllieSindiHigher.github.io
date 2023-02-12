@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.475" height="28.369" viewBox="0 0 27.475 28.369">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff00b2"/>
+      <stop offset="1" stop-color="#ffe500"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_map-search" data-name="Icon map-search" d="M21.545,18.423a11.4,11.4,0,0,0,1.572-5.788A11.018,11.018,0,0,0,12.278,1.44,11.021,11.021,0,0,0,1.44,12.634,11.017,11.017,0,0,0,12.282,23.821a10.519,10.519,0,0,0,5.6-1.624l7.372,7.611,3.656-3.777Zm-9.264,1.135a6.826,6.826,0,0,1-6.706-6.917,6.828,6.828,0,0,1,6.706-6.925,6.831,6.831,0,0,1,6.706,6.925A6.832,6.832,0,0,1,12.281,19.559Z" transform="translate(-1.44 -1.44)" fill="url(#linear-gradient)"/>
+</svg>
